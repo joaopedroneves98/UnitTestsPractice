@@ -1,0 +1,14 @@
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\bin\Debug\netcoreapp3.1\AcademiaDemo.Services.deps.json
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\bin\Debug\netcoreapp3.1\AcademiaDemo.Services.dll
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\bin\Debug\netcoreapp3.1\AcademiaDemo.Services.pdb
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\bin\Debug\netcoreapp3.1\AcademiaDemo.Data.dll
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\bin\Debug\netcoreapp3.1\AcademiaDemo.Domain.dll
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\bin\Debug\netcoreapp3.1\AcademiaDemo.Data.pdb
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\bin\Debug\netcoreapp3.1\AcademiaDemo.Domain.pdb
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\obj\Debug\netcoreapp3.1\AcademiaDemo.Services.csprojAssemblyReference.cache
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\obj\Debug\netcoreapp3.1\AcademiaDemo.Services.AssemblyInfoInputs.cache
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\obj\Debug\netcoreapp3.1\AcademiaDemo.Services.AssemblyInfo.cs
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\obj\Debug\netcoreapp3.1\AcademiaDemo.Services.csproj.CoreCompileInputs.cache
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\obj\Debug\netcoreapp3.1\AcademiaDemo.Services.csproj.CopyComplete
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\obj\Debug\netcoreapp3.1\AcademiaDemo.Services.dll
+C:\Users\fmorcillodonasciment\source\repos\AcademiaDemo\AcademiaDemo.Services\obj\Debug\netcoreapp3.1\AcademiaDemo.Services.pdb

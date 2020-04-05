@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Services\\AcademiaDemo.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Data\\AcademiaDemo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Data\\AcademiaDemo.Data.csproj",
+        "projectName": "AcademiaDemo.Data",
+        "projectPath": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Data\\AcademiaDemo.Data.csproj",
+        "packagesPath": "C:\\Users\\jpvasconcelosneves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jpvasconcelosneves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj": {
+                "projectPath": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
+        "projectName": "AcademiaDemo.Domain",
+        "projectPath": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj",
+        "packagesPath": "C:\\Users\\jpvasconcelosneves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jpvasconcelosneves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Services\\AcademiaDemo.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Services\\AcademiaDemo.Services.csproj",
+        "projectName": "AcademiaDemo.Services",
+        "projectPath": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Services\\AcademiaDemo.Services.csproj",
+        "packagesPath": "C:\\Users\\jpvasconcelosneves\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jpvasconcelosneves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Data\\AcademiaDemo.Data.csproj": {
+                "projectPath": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Data\\AcademiaDemo.Data.csproj"
+              },
+              "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj": {
+                "projectPath": "C:\\Users\\jpvasconcelosneves\\Documents\\Projetos\\AcademiaDemo\\AcademiaDemo\\AcademiaDemo.Domain\\AcademiaDemo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
